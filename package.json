@@ -1,0 +1,20 @@
+{
+  "name": "saveurmoneyapp",
+  "version": "1.0.0",
+  "description": "\"# SaveURMoney\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruan2002/SaveURMoneyApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruan2002/SaveURMoneyApp/issues"
+  },
+  "homepage": "https://github.com/Ruan2002/SaveURMoneyApp#readme"
+}
