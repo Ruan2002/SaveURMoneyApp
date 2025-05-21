@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uCX2gJcvkss=",
+  "dgSpecHash": "b4DNnhYobs0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ruan\\source\\repos\\SaveUrMoneyApp\\SaveUrMoneyApp.csproj",
+  "projectFilePath": "C:\\Users\\Ruan\\source\\repos\\SaveUrMoneyApp\\SaveURMoneyApp\\SaveUrMoneyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ruan\\.nuget\\packages\\google.apis\\1.69.0\\google.apis.1.69.0.nupkg.sha512",
     "C:\\Users\\Ruan\\.nuget\\packages\\google.apis.auth\\1.69.0\\google.apis.auth.1.69.0.nupkg.sha512",

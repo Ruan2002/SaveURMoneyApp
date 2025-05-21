@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ruan\\source\\repos\\SaveUrMoneyApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Ruan\\source\\repos\\SaveUrMoneyApp\\SaveURMoneyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1672D387-16E8-4F51-9A58-AE868D97647C}|SaveUrMoneyApp.csproj|c:\\users\\ruan\\source\\repos\\saveurmoneyapp\\saveurmoneyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1672D387-16E8-4F51-9A58-AE868D97647C}|SaveUrMoneyApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ruan\\source\\repos\\SaveUrMoneyApp\\SaveURMoneyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ruan\\source\\repos\\SaveUrMoneyApp\\SaveURMoneyApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T22:35:10.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
